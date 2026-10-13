@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# 年輪データ（CC BY-NC-ND 4.0）は再配布しない。ノートブックが実行時に配布元からダウンロードする
+data/trw_l.csv
+data/trw_m.csv
+data/info_tree.csv
+data/info_core.csv
